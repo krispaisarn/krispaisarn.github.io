@@ -1,0 +1,184 @@
+{
+    "Header": {
+
+        "title": "Kris Mahakit",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+
+    },
+    "About": {
+        "paragraph":"I am Unity Developer in Thailand who intertest in various fields in tech, innovation and creative fields. I have been experienced in both development, design and related subject for game and tech industry.",
+        "Why": [
+            "Lorem ipsum dolor",
+            "Tempor incididunt",
+            "Lorem ipsum dolor",
+            "Incididunt ut labore"
+        ],
+        "Why2": [
+            "Aliquip ex ea commodo",
+            "Lorem ipsum dolor",
+            "Exercitation ullamco",
+            "Lorem ipsum dolor"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-wordpress",
+            "name": "Lorem ipsum dolor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "Consectetur adipiscing",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Lorem ipsum dolor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "Consectetur adipiscing",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-plane",
+            "name": "Lorem ipsum dolor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Consectetur adipiscing",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "iconType": "fab",
+            "icon": "unity",
+            "title": "Unity Dev",
+            "text": "Mobile Game, Virtual Reality, Augmented Reality, Interactive Applicaiton and more"
+        },
+        {
+            "iconType": "fab",
+            "icon": "sketch",
+            "title": "UI Design",
+            "text": "Game UI, Mobile Application UI, Web Application Design and more"
+        },
+        {
+            "iconType": "fas",
+            "icon": "magic",
+            "title": "Graphic Design",
+            "text": "Logo Design, Web Design, Advertisement Design, Motion Graphic and more"
+        },
+        {
+            "iconType": "fas",
+            "icon": "cubes",
+            "title": "3D & Game FX",
+            "text": "Model for Game and Game FX"
+        }
+    ],
+    "Works": [
+        {
+            "title" :"Unity",
+        "contents":[
+        
+            {
+                "thumb": "img/portfolio/01-small.jpg",
+                "title": "Unity Dev",
+                "category": "Unity Dev",
+                "text": "Mobile Game, Virtual Reality, Augmented Reality, Interactive Applicaiton and more",
+                "playerContents":[ "https://www.youtube.com/embed/VdeK_VsG9U0", "https://www.w3schools.com/html/pic_trulli.jpg"]
+            },
+            {
+                "thumb": "img/portfolio/02-small.jpg",
+                "title": "Unity Dev",
+                "category": "Unity Dev",
+                "text": "Mobile Game, Virtual Reality, Augmented Reality, Interactive Applicaiton and more",
+                "playerContents":[ "https://www.youtube.com/watch?v=ry0zLOVSMac", "https://www.w3schools.com/html/pic_trulli.jpg"]
+            }
+        
+        ]
+    },        
+    {
+            "title" :"Graphic",
+        "contents":[
+        
+            {
+                "thumb": "img/portfolio/maximerci.jpg",
+                "title": "Maxi Merci",
+                "category": "Web Design",
+                "text": "Web Design, Ads Design",
+                "playerContents":[ "https://youtu.be/hdaaIylL2IY", "img/portfolio/maxi1.png", "img/portfolio/maxi2.png", "img/portfolio/maxi3.png", "img/portfolio/maxi4.png", "img/portfolio/maxi5.png", "img/portfolio/maxi6.png"]
+            },
+            {
+                "thumb": "img/portfolio/02-small.jpg",
+                "title": "Unity Dev",
+                "category": "Unity Dev",
+                "text": "Mobile Game, Virtual Reality, Augmented Reality, Interactive Applicaiton and more",
+                "playerContents":[ "https://youtube.com/watch?v=QU-W-IQkIIo", "https://www.w3schools.com/html/pic_trulli.jpg"]
+            }
+        
+        ]
+    }
+]
+}

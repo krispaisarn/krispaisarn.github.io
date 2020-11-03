@@ -1,0 +1,41 @@
+{
+  "Features": [
+      {
+          "title" : "edok",
+    "Features1": [{
+        "title" : "ephee"
+
+        }
+    ]
+
+    },
+{
+    
+    "Features2": [{
+            "iconType": "fab",
+            "icon": "unity",
+            "title": "Unity Dev",
+            "text": "Mobile Game, Virtual Reality, Augmented Reality, Interactive Applicaiton and more"
+        },
+        {
+            "iconType": "fab",
+            "icon": "sketch",
+            "title": "UI Design",
+            "text": "Game UI, Mobile Application UI, Web Application Design and more"
+        },
+        {
+            "iconType": "fas",
+            "icon": "magic",
+            "title": "Graphic Design",
+            "text": "Logo Design, Web Design, Advertisement Design, Motion Graphic and more"
+        },
+        {
+            "iconType": "fas",
+            "icon": "cubes",
+            "title": "3D & Game FX",
+            "text": "Model for Game and Game FX"
+        }
+    ]
+  }
+  ]
+}
