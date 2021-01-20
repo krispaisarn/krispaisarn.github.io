@@ -33,14 +33,18 @@ export class App extends Component {
     return (
       <div>
         <Navigation />
+        <div id="fixedHeader">
         <Header data={this.state.landingPageData.Header} />
-        {/* <Services data={this.state.landingPageData.Services} /> */}
-        <About data={this.state.landingPageData.About} />
-        <Features data={this.state.landingPageData.Features} />
-        <Gallery data={this.state.landingPageData.Works} />
-        {/* <Testimonials data={this.state.landingPageData.Testimonials} /> */}
-        {/* <Team data={this.state.landingPageData.Team} /> */}
-        <Contact data={this.state.landingPageData.Contact} />
+        </div>
+        <div className="mainContent">
+          {/* <Services data={this.state.landingPageData.Services} /> */}
+          <About data={this.state.landingPageData.About} />
+          <Features data={this.state.landingPageData.Features} />
+          <Gallery data={this.state.landingPageData.Works} />
+          {/* <Testimonials data={this.state.landingPageData.Testimonials} /> */}
+           <Team data={this.state.landingPageData.Team} /> 
+          <Contact data={this.state.landingPageData.Contact} />
+        </div>
       </div>
     )
   }

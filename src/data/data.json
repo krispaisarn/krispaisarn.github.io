@@ -1,12 +1,10 @@
 {
     "Header": {
-
-        "title": "Kris Mahakit",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
-
+        "title": "Kris Paisarn",
+        "paragraph": "Unity Developer & Designer"
     },
     "About": {
-        "paragraph":"I am Unity Developer in Thailand who intertest in various fields in tech, innovation and creative fields. I have been experienced in both development, design and related subject for game and tech industry.",
+        "paragraph": "I am Unity Developer from Rayong, Thailand. I have more than 7 years experience since I was student in 2012. Beside being developer, I also eager to learn in designing field include UI/UX, Game Effects, 2D and 3D. My core passion is on mobile for both game and application development. This makes me want to learn more in related stuffs to improve myself and broader my vision in application development.",
         "Why": [
             "Lorem ipsum dolor",
             "Tempor incididunt",
@@ -20,7 +18,8 @@
             "Lorem ipsum dolor"
         ]
     },
-    "Services": [{
+    "Services": [
+        {
             "icon": "fa fa-wordpress",
             "name": "Lorem ipsum dolor",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
@@ -50,10 +49,9 @@
             "name": "Consectetur adipiscing",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         }
-
-
     ],
-    "Testimonials": [{
+    "Testimonials": [
+        {
             "img": "img/testimonials/01.jpg",
             "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
             "name": "John Doe"
@@ -84,39 +82,43 @@
             "name": "Johnathan Doe"
         }
     ],
-    "Team": [{
-            "img": "img/team/01.jpg",
-            "name": "John Doe",
-            "job": "Director"
+    "Team": [
+        {
+            "img": "img/achievements/nsc_2013.jpg",
+            "name": "Winner",
+            "job": "National Software Contest 2013 (Entertainment Category)"
         },
         {
-            "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
-        }, {
-            "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
+            "img": "img/achievements/cmu_kiu.jpg",
+            "name": "Co-work Program",
+            "job": "Chiang Mai University & Kyungil University"
         },
         {
-            "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
+            "img": "img/achievements/angel_hack.jpg",
+            "name": "First Runner-up",
+            "job": "Angel Hack KL 2016 (Smart Living Category)"
+        },
+        {
+            "img": "img/achievements/energy_animation.jpg",
+            "name": "Second Runner-up",
+            "job": "Energy Animation Contest 2011, Ministry of Energy, Thailand"
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
+        "address": "Rayong, Thailand",
+        "phone": "+66 98 269 0380",
+        "email": "kris.paisarn@gmail.com",
+        "github": "github.com/krispaisarn",
         "facebook": "fb.com",
         "twitter": "twitter.com",
         "youtube": "youtube.com"
     },
-    "Features": [{
+    "Features": [
+        {
             "iconType": "fab",
             "icon": "unity",
             "title": "Unity Dev",
-            "text": "Mobile Game, Virtual Reality, Augmented Reality, Interactive Applicaiton and more"
+            "text": "Mobile Game, Virtual Reality, Augmented Reality"
         },
         {
             "iconType": "fab",
@@ -139,46 +141,333 @@
     ],
     "Works": [
         {
-            "title" :"Unity",
-        "contents":[
-        
-            {
-                "thumb": "img/portfolio/01-small.jpg",
-                "title": "Unity Dev",
-                "category": "Unity Dev",
-                "text": "Mobile Game, Virtual Reality, Augmented Reality, Interactive Applicaiton and more",
-                "playerContents":[ "https://www.youtube.com/embed/VdeK_VsG9U0", "https://www.w3schools.com/html/pic_trulli.jpg"]
-            },
-            {
-                "thumb": "img/portfolio/02-small.jpg",
-                "title": "Unity Dev",
-                "category": "Unity Dev",
-                "text": "Mobile Game, Virtual Reality, Augmented Reality, Interactive Applicaiton and more",
-                "playerContents":[ "https://www.youtube.com/watch?v=ry0zLOVSMac", "https://www.w3schools.com/html/pic_trulli.jpg"]
-            }
-        
-        ]
-    },        
-    {
-            "title" :"Graphic",
-        "contents":[
-        
-            {
-                "thumb": "img/portfolio/maximerci.jpg",
-                "title": "Maxi Merci",
-                "category": "Web Design",
-                "text": "Web Design, Ads Design",
-                "playerContents":[ "https://youtu.be/hdaaIylL2IY", "img/portfolio/maxi1.png", "img/portfolio/maxi2.png", "img/portfolio/maxi3.png", "img/portfolio/maxi4.png", "img/portfolio/maxi5.png", "img/portfolio/maxi6.png"]
-            },
-            {
-                "thumb": "img/portfolio/02-small.jpg",
-                "title": "Unity Dev",
-                "category": "Unity Dev",
-                "text": "Mobile Game, Virtual Reality, Augmented Reality, Interactive Applicaiton and more",
-                "playerContents":[ "https://youtube.com/watch?v=QU-W-IQkIIo", "https://www.w3schools.com/html/pic_trulli.jpg"]
-            }
-        
-        ]
-    }
-]
+            "title": "Unity",
+            "text": "Mobile Game, Virtual Reality, Augmented Reality, Interactive Applicaiton and more",
+            "contents": [
+                {
+                    "thumb": "img/portfolio/makeabag.jpg",
+                    "title": "Make a Bag",
+                    "category": "Mobile Application",
+                    "text": "Application for making customized bags on mobile. I worked since state of research and development in 3D term to application development. For this project I participated in many parts such as  bag’s material integration with custom shader, worked closely with 3D team to figured out specification of 3D bag model that can smoothly customizable on mobile platform while keeping realistic of material and surface.",
+                    "playerContents": [
+                        "https://youtu.be/kz4wN-u8B98",
+                        "img/portfolio/makeabag/makeabag1.jpg",
+                        "img/portfolio/makeabag/makeabag2.jpg",
+                        "img/portfolio/makeabag/makeabag3.jpg",
+                        "img/portfolio/makeabag/makeabag4.jpg",
+                        "img/portfolio/makeabag/makeabag5.jpg",
+                        "img/portfolio/makeabag/makeabag6.jpg",
+                        "img/portfolio/makeabag/makeabag7.jpg",
+                        "img/portfolio/makeabag/makeabag8.jpg",
+                        "img/portfolio/makeabag/makeabag9.jpg",
+                        "img/portfolio/makeabag/makeabag10.jpg",
+                        "img/portfolio/makeabag/makeabag11.jpg"
+                    ]
+                },
+                {
+                    "thumb": "img/portfolio/wiz.jpg",
+                    "title": "Wiz Magic",
+                    "category": "Mobile Game",
+                    "text": "Matching mobile game as side project to practice creating casual  puzzle game integrated with 3D character and cool effects.",
+                    "playerContents": [
+                        "https://youtu.be/WJjzTQz2iuA",
+                        "img/portfolio/wiz/ss1.jpg",
+                        "img/portfolio/wiz/ss2.jpg",
+                        "img/portfolio/wiz/ss3.jpg",
+                        "img/portfolio/wiz/ss4.jpg"
+                    ],
+                    "demoLink": "https://goo.gl/1zq7Mr"
+                },
+                {
+                    "thumb": "img/portfolio/sino.jpg",
+                    "title": "Sino Protoguese",
+                    "category": "Mobile Virtual World",
+                    "text": "Virtual world of Phuket old town in the part. Basically, handled the rest of application beside 3D assets which were provided by 3D Designer.",
+                    "playerContents": [
+                        "https://youtu.be/I-jT-9Aqtns",
+                        "img/portfolio/sino/sino1.jpg",
+                        "img/portfolio/sino/sino2.jpg",
+                        "img/portfolio/sino/sino3.jpg",
+                        "img/portfolio/sino/sino4.jpg"
+                    ],
+                    "demoLink": "https://goo.gl/hGeBUi"
+                },
+                {
+                    "thumb": "img/portfolio/chedi.jpg",
+                    "title": "Chedi Luang AR",
+                    "category": "Augmented Reality",
+                    "text": "Study project in purpos of tourism by using AR technology. As Chedi Luang has been broken so AR can show user full form of Chedi in 3D view.",
+                    "playerContents": [
+                        "img/portfolio/jdl/jdl1.jpg",
+                        "img/portfolio/jdl/jdl2.jpg",
+                        "img/portfolio/jdl/jdl3.jpg",
+                        "img/portfolio/jdl/jdl4.jpg"
+                    ],
+                    "demoLink": "https://goo.gl/8Z4GwQ"
+                },
+                {
+                    "thumb": "img/portfolio/skyrider.jpg",
+                    "title": "Sky Rider",
+                    "category": "Mobile Game + VR",
+                    "text": "Fantasy endless running mobile game plus VR mode, Sky Rider was commercial project that I took part as various roles e.g. Developer, Level Designer, Effect Designer and Sound Designer. Beside mobile version of Sky Rider, there is VR mode that users can play by put mobile phone into cardboard and play with their head movement.",
+                    "playerContents": [
+                        "https://youtu.be/i5Vt3iST_mA",
+                        "https://youtu.be/avJ9GEWBeV0",
+                        "img/portfolio/skyrider/sky1.jpg",
+                        "img/portfolio/skyrider/sky2.jpg",
+                        "img/portfolio/skyrider/sky3.jpg",
+                        "img/portfolio/skyrider/sky4.jpg"
+                    ]
+                },
+                {
+                    "thumb": "img/portfolio/wat2015.jpg",
+                    "title": "Chiang Mai II",
+                    "category": "Mobile Vritual World",
+                    "text": "Virtual world experience on mobile, similar to Chiang Mai 1 but with a bigger scope and more details. I also worked and technical artist to guide 3D modeler about 3D assets and how to create proper low-poly models and textures for mobile platform.",
+                    "playerContents": [
+                        "https://youtu.be/3do6q_fcuRs",
+                        "img/portfolio/wat2/wat2015_1.jpg",
+                        "img/portfolio/wat2/wat2015_2.jpg",
+                        "img/portfolio/wat2/wat2015_3.jpg",
+                        "img/portfolio/wat2/wat2015_4.jpg"
+                    ],
+                    "demoLink": "https://goo.gl/tzDHZa"
+                },
+                {
+                    "thumb": "img/portfolio/bipor.jpg",
+                    "title": "Bipor",
+                    "category": "Mobile Game",
+                    "text": "Bipor is mobile edutainment project which was served for Ministry of Energy,Thailand. The project was made to encourage kids to save an energy. Player will play as Bipor the girl that need to solve daily problems. I was Developer, Level Designer and Script Writers for this project. ",
+                    "playerContents": [
+                        "img/portfolio/bipor/br_1.jpg",
+                        "img/portfolio/bipor/br_2.jpg",
+                        "img/portfolio/bipor/br_3.jpg",
+                        "img/portfolio/bipor/br_4.jpg"
+                    ],
+                    "demoLink": "https://goo.gl/RlSefA"
+                },
+                {
+                    "thumb": "img/portfolio/cm.jpg",
+                    "title": "Chiang Mai I",
+                    "category": "Mobile Virtual World",
+                    "text": "Virtual world of ancient Chiang Mai city on mobile, I worked as solo developer and a help of 3D Designer who provided 3D assets. I managed to set up 3D scenes in Unity and did lighting part as well.",
+                    "playerContents": [
+                        "https://youtu.be/h4oddE9bm-4",
+                        "img/portfolio/wat1/wat2013_1.jpg",
+                        "img/portfolio/wat1/wat2014_2.jpg",
+                        "img/portfolio/wat1/wat2013_3.jpg",
+                        "img/portfolio/wat1/wat2013_4.jpg"
+                    ],
+                    "demoLink": "https://goo.gl/aBmqMk"
+                },
+                {
+                    "thumb": "img/portfolio/MIT.jpg",
+                    "title": "Monster In Thailand",
+                    "category": "Mobile Game",
+                    "text": "Individual study from last student year, the project also was summited to Thailand Software Contest 2013 and won a grand prize on entertainment category.",
+                    "playerContents": [
+                        "https://youtu.be/OBL5QMkxx9U",
+                        "img/portfolio/mit/mit_1.jpg",
+                        "img/portfolio/mit/mit_2.jpg",
+                        "img/portfolio/mit/mit_4.jpg"
+                    ],
+                    "demoLink": "https://goo.gl/r2D7Ve"
+                },
+                {
+                    "thumb": "img/portfolio/ML.jpg",
+                    "title": "Monster Land",
+                    "category": "Mobile Game",
+                    "text": "Spin-off side project from Monster In Thailand to create endless casual aRPG",
+                    "playerContents": [
+                        "https://youtu.be/Tdh0M5PkdDo",
+                        "img/portfolio/ml/ml_1.jpg",
+                        "img/portfolio/ml/ml_2.jpg",
+                        "img/portfolio/ml/ml_3.jpg",
+                        "img/portfolio/ml/ml_4.jpg"
+                    ]
+                },
+                {
+                    "thumb": "img/portfolio/Cng.jpg",
+                    "title": "ChiangGu",
+                    "category": "Mobile Application",
+                    "text": "Co-operative project between two faculties which are College of Arts, Media and Technology, Chiang Mai University and School of Photography and Video, Kyungil University. We made a decision to make mobile application which contains beautiful cinematography of two cities, Chiang Mai and Daegu. I worked and developer and motion graphic in application.",
+                    "playerContents": [
+                        "https://youtu.be/PIMAXLIiN-I",
+                        "img/portfolio/cg/cg_1.jpg",
+                        "img/portfolio/cg/cg_2.jpg",
+                        "img/portfolio/cg/cg_3.jpg",
+                        "img/portfolio/cg/cg_4.jpg"
+                    ]
+                },
+                {
+                    "thumb": "img/portfolio/koi.jpg",
+                    "title": "Koi",
+                    "category": "Mobile Game",
+                    "text": "Fun Side project to create easy playing casual game on mobile with minimal style of art.",
+                    "playerContents": [
+                        "https://youtu.be/BCQXx5paAsg",
+                        "img/portfolio/koi/koi_1.jpg",
+                        "img/portfolio/koi/koi_2.jpg",
+                        "img/portfolio/koi/koi_3.jpg",
+                        "img/portfolio/koi/koi_4.jpg"
+                    ],
+                    "demoLink": "https://goo.gl/I2qHmK"
+                },
+                {
+                    "thumb": "img/portfolio/kvz.jpg",
+                    "title": "Knights Vs. Zombies",
+                    "category": "PC Game",
+                    "text": "Fun side project to create Snake game style with fantasy theme plus item options for twisted gameplay.",
+                    "playerContents": [
+                        "https://youtu.be/c_47aevwMas",
+                        "img/portfolio/kvz/kvz_1.jpg",
+                        "img/portfolio/kvz/kvz_2.jpg",
+                        "img/portfolio/kvz/kvz_3.jpg",
+                        "img/portfolio/kvz/kvz_4.jpg"
+                    ]
+                },
+                {
+                    "thumb": "img/portfolio/holo.jpg",
+                    "title": "Holo",
+                    "category": "Holographic Application",
+                    "text": "Research and development project that I worked in Malaysia to create application which works holographic display box. There are interactive figure, utility app and game.",
+                    "playerContents": [
+                        "https://youtu.be/jBLqoO9QMj0",
+                        "https://youtu.be/RnVWzOeA3EY",
+                        "https://youtu.be/761cufDY_Es",
+                        "img/portfolio/holo/holo.jpg"
+                    ]
+                },
+                {
+                    "thumb": "img/portfolio/pao.jpg",
+                    "title": "Pao Pao Run",
+                    "category": "PC Game",
+                    "text": "Student project to create PC game based on cultural theme. Pao Pao Run is 3rd-person action survival game which users have to survive as long as they can.",
+                    "playerContents": [
+                        "https://youtu.be/uf26QkDcoqM",
+                        "img/portfolio/pao/pp_1.jpg",
+                        "img/portfolio/pao/pp_2.jpg",
+                        "img/portfolio/pao/pp_3.jpg",
+                        "img/portfolio/pao/pp_4.jpg"
+                    ],
+                    "demoLink": "https://goo.gl/P64bW5"
+                }
+            ]
+        },
+        {
+            "title": "UI/UX Design",
+            "contents": [
+                {
+                    "thumb": "img/portfolio/ui/cf_1.jpg",
+                    "title": "Crazy Factory Mobile UI",
+                    "category": "UI Design",
+                    "text": "Fun side project to design UI for mobile application for crazy-factory.com.",
+                    "playerContents": [
+                        "img/portfolio/ui/cf_1.jpg",
+                        "img/portfolio/ui/cf_2.jpg"
+                    ]
+                },
+                {
+                    "thumb": "img/portfolio/ui/tripster_1.jpg",
+                    "title": "Tripster UI",
+                    "category": "UI Design",
+                    "text": "Free-time project designing shraring trip application on mobile.",
+                    "playerContents": [
+                        "img/portfolio/tripster_1.jpg",
+                        "img/portfolio/tripster_2.jpg"
+                    ]
+                },
+                {
+                    "thumb": "img/portfolio/ui/mab.jpg",
+                    "title": "Make a Bag Mobile UI",
+                    "category": "UI Design",
+                    "text": "Created handbag shopping app UI on mobile as UI design skill practice.",
+                    "playerContents": [
+                        "img/portfolio/ui/mab.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Graphic & Animation",
+            "contents": [
+                {
+                    "thumb": "img/portfolio/maximerci.jpg",
+                    "title": "Maxi Merci Web",
+                    "category": "Web Design",
+                    "text": "Web design for e-commerce website, Maximerci.",
+                    "playerContents": [
+                        "https://youtu.be/hdaaIylL2IY",
+                        "img/portfolio/maxi1.jpg",
+                        "img/portfolio/maxi2.jpg",
+                        "img/portfolio/maxi3.jpg",
+                        "img/portfolio/maxi4.jpg",
+                        "img/portfolio/maxi5.jpg",
+                        "img/portfolio/maxi6.jpg"
+                    ]
+                },
+                {
+                    "thumb": "img/portfolio/maxi_ads.jpg",
+                    "title": "Maxi Merci Ads",
+                    "category": "Ads Design",
+                    "text": "Advertisement design for Maxi Merci which was used on Facebook or Instagram.",
+                    "playerContents": [
+                        "img/portfolio/maxi_ads/ads_01.jpg",
+                        "img/portfolio/maxi_ads/ads_2.jpg",
+                        "img/portfolio/maxi_ads/ads_03.jpg",
+                        "img/portfolio/maxi_ads/ads_4.jpg"
+                    ]
+                },
+                {
+                    "thumb": "img/portfolio/graphic/motion.jpg",
+                    "title": "Motion Graphic Works",
+                    "category": "Motion Graphic",
+                    "text": "Part of my motion graphic works since I was student.",
+                    "playerContents": [
+                        "https://youtu.be/PIMAXLIiN-I",
+                        "https://youtu.be/OBL5QMkxx9U",
+                        "https://youtu.be/OibaJOKRgag"
+                    ]
+                },
+                {
+                    "thumb": "img/portfolio/graphic/3D.jpg",
+                    "title": "3D & 2D Works",
+                    "category": "3D & 2D Animation",
+                    "text": "Some of my previous 3D & 2D works in various styles.",
+                    "playerContents": [
+                        "img/portfolio/3d/3d_1.jpg",
+                        "img/portfolio/3d/3d_2.jpg",
+                        "img/portfolio/3d/3d_3.jpg",
+                        "https://youtu.be/2hI_png4qQw",
+                        "img/portfolio/3d/3d_4.jpg",
+                        "img/portfolio/3d/3d_5.jpg",
+                        "img/portfolio/3d/3d_6.jpg",
+                        "img/portfolio/3d/3d_7.jpg",
+                        "img/portfolio/3d/3d_8.jpg",
+                        "https://youtu.be/iTyck2yA_a0",
+                        "img/portfolio/3d/3d_9.jpg"
+                    ]
+                },
+                {
+                    "thumb": "img/portfolio/graphic/stopmotion.jpg",
+                    "title": "Stop Motion Works",
+                    "category": "Stop Motion",
+                    "text": "My stop motion works since I was first year college student include \"You Lost Me\", the story about how cruel of human towards nature and \"CAT Datacom\" which won second place from CAT Datacom contest 2010 about communication imaginary. ",
+                    "playerContents": [
+                        "https://youtu.be/M2rIHTVnrKk",
+                        "https://youtu.be/fX2VUTDNVuY"
+                    ]
+                },
+                {
+                    "thumb": "img/portfolio/graphic/logo.jpg",
+                    "title": "Logo Design Works",
+                    "category": "Logo Design",
+                    "text": "Some showcase of my logo design and beside creating application logo, I also did some for commercial purpose.",
+                    "playerContents": [
+                        "img/portfolio/graphic/logo.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
 }

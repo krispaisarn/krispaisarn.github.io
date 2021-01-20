@@ -3,14 +3,10 @@ import React, { Component } from "react";
 export class Team extends Component {
   render() {
     return (
-      <div id="team" className="text-center">
+      <div id="achievements" className="text-center">
         <div className="container">
           <div className="col-md-8 col-md-offset-2 section-title">
-            <h2>Meet the Team</h2>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-              dapibus leonec.
-            </p>
+            <h2>Achievements</h2>
           </div>
           <div id="row">
             {this.props.data

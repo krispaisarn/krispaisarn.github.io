@@ -4,17 +4,40 @@ export class Contact extends Component {
   render() {
     return (
       <div>
-        <div id="contact">
+        <div id="contact" >
           <div className="container">
-            <div className="col-md-8">
-              <div className="row">
-                <div className="section-title">
-                  <h2>Get In Touch</h2>
+              <h2 className="about-text">Contact</h2>
+            <div className="row">
+                <div className="contact-item">
                   <p>
-                    Please fill out the form below to send us an email and we
-                    will get back to you as soon as possible.
+                      <i className="fa fa-map-marker"></i> Address
+                      <br></br>
+                    {this.props.data ? this.props.data.address : "loading"}
                   </p>
                 </div>
+                <div className="contact-item" >
+                  <p>
+                      <i className="fa fa-phone"></i> Phone
+                      <br></br>
+                    {this.props.data ? this.props.data.phone : "loading"}
+                  </p>
+                </div>
+                <div className="contact-item">
+                  <p>
+                      <i className="fa fa-envelope-o"></i> Email
+                      <br></br>
+                    {this.props.data ? <a href={'mailto:' + this.props.data.email} target="_blank" >{this.props.data.email}</a> : "loading"}
+                  </p>
+                </div>
+                <div className="contact-item">
+                  <p>
+                      <i className="fa fa-github"></i> GitHub
+                <br></br>
+                    {this.props.data ? <a href={'https://github.com/' + this.props.data.github} target="_blank" >{this.props.data.github}</a> : "loading"}
+                  </p>
+                </div>
+            </div>
+            {/*
                 <form name="sentMessage" id="contactForm" noValidate>
                   <div className="row">
                     <div className="col-md-6">
@@ -58,72 +81,21 @@ export class Contact extends Component {
                     Send Message
                   </button>
                 </form>
-              </div>
-            </div>
-            <div className="col-md-3 col-md-offset-1 contact-info">
-              <div className="contact-item">
-                <h3>Contact Info</h3>
-                <p>
-                  <span>
-                    <i className="fa fa-map-marker"></i> Address
-                  </span>
-                  {this.props.data ? this.props.data.address : "loading"}
-                </p>
-              </div>
-              <div className="contact-item">
-                <p>
-                  <span>
-                    <i className="fa fa-phone"></i> Phone
-                  </span>{" "}
-                  {this.props.data ? this.props.data.phone : "loading"}
-                </p>
-              </div>
-              <div className="contact-item">
-                <p>
-                  <span>
-                    <i className="fa fa-envelope-o"></i> Email
-                  </span>{" "}
-                  {this.props.data ? this.props.data.email : "loading"}
-                </p>
-              </div>
-            </div>
-            <div className="col-md-12">
-              <div className="row">
-                <div className="social">
-                  <ul>
-                    <li>
-                      <a
-                        href={this.props.data ? this.props.data.facebook : "/"}
-                      >
-                        <i className="fa fa-facebook"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href={this.props.data ? this.props.data.twitter : "/"}>
-                        <i className="fa fa-twitter"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href={this.props.data ? this.props.data.youtube : "/"}>
-                        <i className="fa fa-youtube"></i>
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
+                */}
           </div>
-        </div>
-        <div id="footer">
-          <div className="container text-center">
-            <p>
-              &copy; 2020 Issaaf Kattan React Land Page Template. Design by{" "}
-              <a href="http://www.templatewire.com" rel="nofollow">
-                TemplateWire
+
+          <div id="footer">
+            <div className="container text-center">
+              <p>
+                &copy; 2021 Kris Paisarn Dev. Develop based on original template by {' '}
+                <a href="https://github.com/issaafalkattan/React-Landing-Page-Template" rel="nofollow">
+                  Issaaf Kattan
               </a>
-            </p>
+              </p>
+            </div>
           </div>
         </div>
+
       </div>
     );
   }
