@@ -33,55 +33,17 @@ export class Contact extends Component {
                   <p>
                       <i className="fa fa-github"></i> GitHub
                 <br></br>
-                    {this.props.data ? <a href={'https://github.com/' + this.props.data.github} target="_blank" >{this.props.data.github}</a> : "loading"}
+                    {this.props.data ? <a href={'https://' + this.props.data.github} target="_blank" >{this.props.data.github}</a> : "loading"}
+                  </p>
+                </div>
+                <div className="contact-item">
+                  <p>
+                      <i className="fa fa-youtube"></i> Youtube
+                <br></br>
+                    {this.props.data ? <a href={this.props.data.youtube} target="_blank" >Kris Dev Channel</a> : "loading"}
                   </p>
                 </div>
             </div>
-            {/*
-                <form name="sentMessage" id="contactForm" noValidate>
-                  <div className="row">
-                    <div className="col-md-6">
-                      <div className="form-group">
-                        <input
-                          type="text"
-                          id="name"
-                          className="form-control"
-                          placeholder="Name"
-                          required="required"
-                        />
-                        <p className="help-block text-danger"></p>
-                      </div>
-                    </div>
-                    <div className="col-md-6">
-                      <div className="form-group">
-                        <input
-                          type="email"
-                          id="email"
-                          className="form-control"
-                          placeholder="Email"
-                          required="required"
-                        />
-                        <p className="help-block text-danger"></p>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="form-group">
-                    <textarea
-                      name="message"
-                      id="message"
-                      className="form-control"
-                      rows="4"
-                      placeholder="Message"
-                      required
-                    ></textarea>
-                    <p className="help-block text-danger"></p>
-                  </div>
-                  <div id="success"></div>
-                  <button type="submit" className="btn btn-custom btn-lg">
-                    Send Message
-                  </button>
-                </form>
-                */}
           </div>
 
           <div id="footer">

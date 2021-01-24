@@ -18,8 +18,9 @@ export class Navigation extends Component {
               <span className="icon-bar"></span>{" "}
               <span className="icon-bar"></span>{" "}
             </button>
+            <img src="img/icon.svg" className="webIcon"></img>
             <a className="navbar-brand page-scroll" href="#page-top">
-              Kris Paisarn Dev
+            Kris Dev
             </a>{" "}
           </div>
 

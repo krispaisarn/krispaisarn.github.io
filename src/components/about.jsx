@@ -111,12 +111,11 @@ export class about extends Component {
               <h2>About</h2>
               <p>{this.props.data ? this.props.data.paragraph : 'loading...'}</p>
 
-
               <div>{items}</div>
               <div style={{ textAlign: 'center' }}>
-                <button className="btn btn-custom btn-animated">
-                  <FontAwesomeIcon icon={["fas", "file-alt"]} className="icon" /> <span>&ensp;</span>Download Resume
-                  </button>
+                <div className="btn btn-custom btn-animated">
+                  <FontAwesomeIcon icon={["fas", "file-alt"]} className="icon" /> <span>&ensp;</span><a className="h5" href="./Kris_Paisarn_Resume.pdf" download>Download Resume</a>
+                  </div>
               </div>
             </div>
           </div>

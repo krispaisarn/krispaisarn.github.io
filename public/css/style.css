@@ -77,6 +77,17 @@ hr {
 	padding: 15px;
 	transition: all 0.8s;
 }
+
+.webIcon{
+	display: inline;
+	height: 36px;
+	width: 36px;
+	float: left;
+	margin-right:  10px;
+	margin-top: 5px;
+	align-items: center;
+}
+
 #menu.navbar-default {
 	background-color: #fff;
 	border-color: rgba(231, 231, 231, 0);
@@ -211,21 +222,17 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 /* Header Section */
 .intro {
+	background: linear-gradient(to right, #1fc9a9ef 0%, #5298e2f3 100%);
 	position: relative;
 	display: table;
 	width: 100%;
 	padding: 0;
-	/*
-	background: url(../img/intro-bg.jpg) center center no-repeat;
-	background-color: #e5e5e5;
-		*/
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;
+	z-index:-2;
 }
-
-
 
 .intro .overlay {
 	background: rgba(0,0,0,0.6);
@@ -253,6 +260,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	margin-top: 0px;
 	margin-bottom: 25px;
 }
+
 header .intro-text {
 	padding-top: 120px;
 	padding-bottom: 100px;
@@ -373,9 +381,17 @@ font-style: italic;
 	color: #333;
 }
 #about .btn-custom:hover {
-	color: #888;
 	border: 2px solid #888;
 
+}
+
+#about a{
+	color: #333;
+	text-decoration: underline;
+}
+
+#about a:hover{
+	color: #888;
 }
 /* Services Section */
 #services {
@@ -432,6 +448,11 @@ font-style: italic;
 	overflow: hidden;
 	position: relative;
 	margin: 0;
+}
+.portfolio-item-placeHolder {
+	background: linear-gradient(to right, rgba(36,240,201,0.6) 0%, rgba(92,169,251,0.6) 100%);
+	max-width: 100%;
+	height: 200px;
 }
 .hover-bg .hover-text {
 	position: absolute;
@@ -715,19 +736,20 @@ background-color: rgba(0, 0, 0, 0.25);
 }
 
 .mymodal {
-	position: absolute;
-	top: 30px;
+	position: absolute; 
+	top: 5%;
 	left: 20px;
 	right: 20px;
-	bottom: 30px;
+	bottom: 5%;
 	background: #000;
 	z-index: 100000 !important;
 	max-width: 640px;
-    margin: 0 auto;
+	max-height: 720px;
+    margin: auto auto;
 	float: none;
 	outline: none;
 	border-radius: 10px;
-	  overflow: hidden;
+	overflow: hidden;
   }
   
   .myoverlay {
@@ -930,8 +952,7 @@ animation-fill-mode: forwards;
    
   .react-player {
 	position: relative;
-	background: rgb(243, 52, 52);
-  }
+}
 
 .carousel-container .carousel .control-arrow:hover{
 	opacity:1;
@@ -1077,7 +1098,7 @@ border-radius:50%;
 	position: absolute;
 	top: 0;
 	left: 0;
-	background: brown;
+	background: linear-gradient(to top, #24f0c9 0%, #5ca9fb 100%);
     object-fit: cover;
 	z-index:-1;
 

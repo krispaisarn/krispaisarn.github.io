@@ -9,24 +9,18 @@ import Testimonials from './components/testimonials';
 import Team from './components/Team';
 import Contact from './components/contact';
 import JsonData from './data/data.json';
-import GalleryData from './data/workData.json';
 import { IconName } from "react-icons/si";
 
 export class App extends Component {
   state = {
     landingPageData: {},
-    galleryData: {},
   }
   getlandingPageData() {
     this.setState({landingPageData : JsonData})
   }
-    getgalleryData() {
-    this.setState({galleryData : GalleryData})
-  }
 
   componentDidMount() {
     this.getlandingPageData();
-    this.getgalleryData();
   }
 
   render() {

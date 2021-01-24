@@ -111,7 +111,7 @@
         "github": "github.com/krispaisarn",
         "facebook": "fb.com",
         "twitter": "twitter.com",
-        "youtube": "youtube.com"
+        "youtube": "https://www.youtube.com/channel/UCnerlknMTJD5DpYN8XncAZA"
     },
     "Features": [
         {
@@ -142,8 +142,21 @@
     "Works": [
         {
             "title": "Unity",
-            "text": "Mobile Game, Virtual Reality, Augmented Reality, Interactive Applicaiton and more",
+            "text": "Mobile Game, Virtual Reality, Augmented Reality, Interactive Application and more",
             "contents": [
+                {
+                    "thumb":  "img/portfolio/ar_dance.jpg",
+                    "title": "Dancing Elf AR",
+                    "category": "Augmented Reality",
+                    "text": "Fun side project for learning in ARKit & ARCore integrate with voice control and AR character. You can visit https://github.com/krispaisarn/Dancing-Elf-AR to see codebase and visit https://youtu.be/9h7bg8aIFPA for explanation video.",
+                    "playerContents": [
+                        "https://youtu.be/9h7bg8aIFPA",
+                        "img/portfolio/ar_dance/arDance_1.jpg",
+                        "img/portfolio/ar_dance/arDance_2.jpg",
+                        "img/portfolio/ar_dance/arDance_3.jpg"
+                    ],
+                    "demoLink": "https://drive.google.com/file/d/1-MfO9xW809TN_VhFDFqxdH7UTo9Ng_aw"
+                },
                 {
                     "thumb": "img/portfolio/makeabag.jpg",
                     "title": "Make a Bag",

@@ -1,15 +1,13 @@
 import React, { Component } from "react";
 import ReactRoundedImage from "react-rounded-image";
-import profile from '../img/header/profile.png';
-
+import profile from '../img/header/profile.jpg';
 
 export class Header extends Component {
   render() {
     return (
       <header id="header">
         <div className="intro">
-          
-        <video id="videoBG" autoPlay playsInline muted>
+        <video id="videoBG" controls autoPlay loop muted>
                 <source src="Reel.m4v" type="video/mp4"></source>
               </video>
     
@@ -50,13 +48,7 @@ export class Header extends Component {
                   <p>
                     {this.props.data ? this.props.data.paragraph : "Loading"}
                   </p>
-                  <a
-                    href="https://youtu.be/3BK7Uxo67X4"
-                    className="btn btn-custom btn-lg btn-header page-scroll btn-animated"
-                    target="_blank"
-                  >
-                    Watch Demo Reel
-                  </a>{" "}
+
                 </div>
               </div>
             </div>
