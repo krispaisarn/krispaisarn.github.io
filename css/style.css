@@ -822,7 +822,7 @@ background: rgb(0, 0, 0);
 	font-size: 12px;
 	font-weight: 500;
 	text-transform: capitalize;
-	background-color: #38a7fb;
+	background-color: linear-gradient(to right, rgba(36,240,201,1) 0%, rgba(92,169,251,1) 100%);
 	border-radius: 15px;
 	display: inline-block;
 	padding: 0.2em 0.7em 0.2em 0.7em;
