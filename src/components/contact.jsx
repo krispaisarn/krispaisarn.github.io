@@ -49,7 +49,7 @@ export class Contact extends Component {
           <div id="footer">
             <div className="container text-center">
               <p>
-                &copy; 2021 Kris Paisarn Dev. Develop based on original template by {' '}
+                &copy; 2021 Kris Dev. Develop based on original template by {' '}
                 <a href="https://github.com/issaafalkattan/React-Landing-Page-Template" rel="nofollow">
                   Issaaf Kattan
               </a>

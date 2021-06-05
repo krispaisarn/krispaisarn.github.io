@@ -106,7 +106,7 @@
     ],
     "Contact": {
         "address": "Rayong, Thailand",
-        "phone": "+66 98 269 0380",
+        "phone": "+66 80 843 7521",
         "email": "kris.paisarn@gmail.com",
         "github": "github.com/krispaisarn",
         "facebook": "fb.com",
@@ -178,138 +178,16 @@
                     ]
                 },
                 {
-                    "thumb": "img/portfolio/wiz.jpg",
-                    "title": "Wiz Magic",
-                    "category": "Mobile Game",
-                    "text": "Matching mobile game as side project to practice creating casual  puzzle game integrated with 3D character and cool effects.",
+                    "thumb": "img/portfolio/holo.jpg",
+                    "title": "Holo",
+                    "category": "Holographic Application",
+                    "text": "Research and development project that I worked in Malaysia to create application which works holographic display box. There are interactive figure, utility app and game.",
                     "playerContents": [
-                        "https://youtu.be/WJjzTQz2iuA",
-                        "img/portfolio/wiz/ss1.jpg",
-                        "img/portfolio/wiz/ss2.jpg",
-                        "img/portfolio/wiz/ss3.jpg",
-                        "img/portfolio/wiz/ss4.jpg"
-                    ],
-                    "demoLink": "https://goo.gl/1zq7Mr"
-                },
-                {
-                    "thumb": "img/portfolio/sino.jpg",
-                    "title": "Sino Protoguese",
-                    "category": "Mobile Virtual World",
-                    "text": "Virtual world of Phuket old town in the part. Basically, handled the rest of application beside 3D assets which were provided by 3D Designer.",
-                    "playerContents": [
-                        "https://youtu.be/I-jT-9Aqtns",
-                        "img/portfolio/sino/sino1.jpg",
-                        "img/portfolio/sino/sino2.jpg",
-                        "img/portfolio/sino/sino3.jpg",
-                        "img/portfolio/sino/sino4.jpg"
-                    ],
-                    "demoLink": "https://goo.gl/hGeBUi"
-                },
-                {
-                    "thumb": "img/portfolio/chedi.jpg",
-                    "title": "Chedi Luang AR",
-                    "category": "Augmented Reality",
-                    "text": "Study project in purpos of tourism by using AR technology. As Chedi Luang has been broken so AR can show user full form of Chedi in 3D view.",
-                    "playerContents": [
-                        "img/portfolio/jdl/jdl1.jpg",
-                        "img/portfolio/jdl/jdl2.jpg",
-                        "img/portfolio/jdl/jdl3.jpg",
-                        "img/portfolio/jdl/jdl4.jpg"
-                    ],
-                    "demoLink": "https://goo.gl/8Z4GwQ"
-                },
-                {
-                    "thumb": "img/portfolio/skyrider.jpg",
-                    "title": "Sky Rider",
-                    "category": "Mobile Game + VR",
-                    "text": "Fantasy endless running mobile game plus VR mode, Sky Rider was commercial project that I took part as various roles e.g. Developer, Level Designer, Effect Designer and Sound Designer. Beside mobile version of Sky Rider, there is VR mode that users can play by put mobile phone into cardboard and play with their head movement.",
-                    "playerContents": [
-                        "https://youtu.be/i5Vt3iST_mA",
-                        "https://youtu.be/avJ9GEWBeV0",
-                        "img/portfolio/skyrider/sky1.jpg",
-                        "img/portfolio/skyrider/sky2.jpg",
-                        "img/portfolio/skyrider/sky3.jpg",
-                        "img/portfolio/skyrider/sky4.jpg"
-                    ]
-                },
-                {
-                    "thumb": "img/portfolio/wat2015.jpg",
-                    "title": "Chiang Mai II",
-                    "category": "Mobile Vritual World",
-                    "text": "Virtual world experience on mobile, similar to Chiang Mai 1 but with a bigger scope and more details. I also worked and technical artist to guide 3D modeler about 3D assets and how to create proper low-poly models and textures for mobile platform.",
-                    "playerContents": [
-                        "https://youtu.be/3do6q_fcuRs",
-                        "img/portfolio/wat2/wat2015_1.jpg",
-                        "img/portfolio/wat2/wat2015_2.jpg",
-                        "img/portfolio/wat2/wat2015_3.jpg",
-                        "img/portfolio/wat2/wat2015_4.jpg"
-                    ],
-                    "demoLink": "https://goo.gl/tzDHZa"
-                },
-                {
-                    "thumb": "img/portfolio/bipor.jpg",
-                    "title": "Bipor",
-                    "category": "Mobile Game",
-                    "text": "Bipor is mobile edutainment project which was served for Ministry of Energy,Thailand. The project was made to encourage kids to save an energy. Player will play as Bipor the girl that need to solve daily problems. I was Developer, Level Designer and Script Writers for this project. ",
-                    "playerContents": [
-                        "img/portfolio/bipor/br_1.jpg",
-                        "img/portfolio/bipor/br_2.jpg",
-                        "img/portfolio/bipor/br_3.jpg",
-                        "img/portfolio/bipor/br_4.jpg"
-                    ],
-                    "demoLink": "https://goo.gl/RlSefA"
-                },
-                {
-                    "thumb": "img/portfolio/cm.jpg",
-                    "title": "Chiang Mai I",
-                    "category": "Mobile Virtual World",
-                    "text": "Virtual world of ancient Chiang Mai city on mobile, I worked as solo developer and a help of 3D Designer who provided 3D assets. I managed to set up 3D scenes in Unity and did lighting part as well.",
-                    "playerContents": [
-                        "https://youtu.be/h4oddE9bm-4",
-                        "img/portfolio/wat1/wat2013_1.jpg",
-                        "img/portfolio/wat1/wat2014_2.jpg",
-                        "img/portfolio/wat1/wat2013_3.jpg",
-                        "img/portfolio/wat1/wat2013_4.jpg"
-                    ],
-                    "demoLink": "https://goo.gl/aBmqMk"
-                },
-                {
-                    "thumb": "img/portfolio/MIT.jpg",
-                    "title": "Monster In Thailand",
-                    "category": "Mobile Game",
-                    "text": "Individual study from last student year, the project also was summited to Thailand Software Contest 2013 and won a grand prize on entertainment category.",
-                    "playerContents": [
-                        "https://youtu.be/OBL5QMkxx9U",
-                        "img/portfolio/mit/mit_1.jpg",
-                        "img/portfolio/mit/mit_2.jpg",
-                        "img/portfolio/mit/mit_4.jpg"
-                    ],
-                    "demoLink": "https://goo.gl/r2D7Ve"
-                },
-                {
-                    "thumb": "img/portfolio/ML.jpg",
-                    "title": "Monster Land",
-                    "category": "Mobile Game",
-                    "text": "Spin-off side project from Monster In Thailand to create endless casual aRPG",
-                    "playerContents": [
-                        "https://youtu.be/Tdh0M5PkdDo",
-                        "img/portfolio/ml/ml_1.jpg",
-                        "img/portfolio/ml/ml_2.jpg",
-                        "img/portfolio/ml/ml_3.jpg",
-                        "img/portfolio/ml/ml_4.jpg"
-                    ]
-                },
-                {
-                    "thumb": "img/portfolio/Cng.jpg",
-                    "title": "ChiangGu",
-                    "category": "Mobile Application",
-                    "text": "Co-operative project between two faculties which are College of Arts, Media and Technology, Chiang Mai University and School of Photography and Video, Kyungil University. We made a decision to make mobile application which contains beautiful cinematography of two cities, Chiang Mai and Daegu. I worked and developer and motion graphic in application.",
-                    "playerContents": [
-                        "https://youtu.be/PIMAXLIiN-I",
-                        "img/portfolio/cg/cg_1.jpg",
-                        "img/portfolio/cg/cg_2.jpg",
-                        "img/portfolio/cg/cg_3.jpg",
-                        "img/portfolio/cg/cg_4.jpg"
+                        "https://youtu.be/pgo8CrALpWc",
+                        "https://youtu.be/jBLqoO9QMj0",
+                        "https://youtu.be/RnVWzOeA3EY",
+                        "https://youtu.be/761cufDY_Es",
+                        "img/portfolio/holo/holo.jpg"
                     ]
                 },
                 {
@@ -327,28 +205,138 @@
                     "demoLink": "https://goo.gl/I2qHmK"
                 },
                 {
-                    "thumb": "img/portfolio/kvz.jpg",
-                    "title": "Knights Vs. Zombies",
-                    "category": "PC Game",
-                    "text": "Fun side project to create Snake game style with fantasy theme plus item options for twisted gameplay.",
+                    "thumb": "img/portfolio/wat2015.jpg",
+                    "title": "Chiang Mai II",
+                    "category": "Mobile Vritual World",
+                    "text": "Virtual world experience on mobile, similar to Chiang Mai 1 but with a bigger scope and more details. I also worked and technical artist to guide 3D modeler about 3D assets and how to create proper low-poly models and textures for mobile platform.",
                     "playerContents": [
-                        "https://youtu.be/c_47aevwMas",
-                        "img/portfolio/kvz/kvz_1.jpg",
-                        "img/portfolio/kvz/kvz_2.jpg",
-                        "img/portfolio/kvz/kvz_3.jpg",
-                        "img/portfolio/kvz/kvz_4.jpg"
+                        "https://youtu.be/3do6q_fcuRs",
+                        "img/portfolio/wat2/wat2015_1.jpg",
+                        "img/portfolio/wat2/wat2015_2.jpg",
+                        "img/portfolio/wat2/wat2015_3.jpg",
+                        "img/portfolio/wat2/wat2015_4.jpg"
+                    ],
+                    "demoLink": "https://goo.gl/tzDHZa"
+                },
+                {
+                    "thumb": "img/portfolio/sino.jpg",
+                    "title": "Sino Protoguese",
+                    "category": "Mobile Virtual World",
+                    "text": "Virtual world of Phuket old town in the part. Basically, handled the rest of application beside 3D assets which were provided by 3D Designer.",
+                    "playerContents": [
+                        "https://youtu.be/I-jT-9Aqtns",
+                        "img/portfolio/sino/sino1.jpg",
+                        "img/portfolio/sino/sino2.jpg",
+                        "img/portfolio/sino/sino3.jpg",
+                        "img/portfolio/sino/sino4.jpg"
+                    ],
+                    "demoLink": "https://goo.gl/hGeBUi"
+                },
+                {
+                    "thumb": "img/portfolio/wiz.jpg",
+                    "title": "Wiz Magic",
+                    "category": "Mobile Game",
+                    "text": "Matching mobile game as side project to practice creating casual  puzzle game integrated with 3D character and cool effects.",
+                    "playerContents": [
+                        "https://youtu.be/WJjzTQz2iuA",
+                        "img/portfolio/wiz/ss1.jpg",
+                        "img/portfolio/wiz/ss2.jpg",
+                        "img/portfolio/wiz/ss3.jpg",
+                        "img/portfolio/wiz/ss4.jpg"
+                    ],
+                    "demoLink": "https://goo.gl/1zq7Mr"
+                },
+                {
+                    "thumb": "img/portfolio/skyrider.jpg",
+                    "title": "Sky Rider",
+                    "category": "Mobile Game + VR",
+                    "text": "Fantasy endless running mobile game plus VR mode, Sky Rider was commercial project that I took part as various roles e.g. Developer, Level Designer, Effect Designer and Sound Designer. Beside mobile version of Sky Rider, there is VR mode that users can play by put mobile phone into cardboard and play with their head movement.",
+                    "playerContents": [
+                        "https://youtu.be/i5Vt3iST_mA",
+                        "https://youtu.be/avJ9GEWBeV0",
+                        "img/portfolio/skyrider/sky1.jpg",
+                        "img/portfolio/skyrider/sky2.jpg",
+                        "img/portfolio/skyrider/sky3.jpg",
+                        "img/portfolio/skyrider/sky4.jpg"
                     ]
                 },
                 {
-                    "thumb": "img/portfolio/holo.jpg",
-                    "title": "Holo",
-                    "category": "Holographic Application",
-                    "text": "Research and development project that I worked in Malaysia to create application which works holographic display box. There are interactive figure, utility app and game.",
+                    "thumb": "img/portfolio/bipor.jpg",
+                    "title": "Bipor",
+                    "category": "Mobile Game",
+                    "text": "Bipor is mobile edutainment project which was served for Ministry of Energy,Thailand. The project was made to encourage kids to save an energy. Player will play as Bipor the girl that need to solve daily problems. I was Developer, Level Designer and Script Writers for this project. ",
                     "playerContents": [
-                        "https://youtu.be/jBLqoO9QMj0",
-                        "https://youtu.be/RnVWzOeA3EY",
-                        "https://youtu.be/761cufDY_Es",
-                        "img/portfolio/holo/holo.jpg"
+                        "img/portfolio/bipor/br_1.jpg",
+                        "img/portfolio/bipor/br_2.jpg",
+                        "img/portfolio/bipor/br_3.jpg",
+                        "img/portfolio/bipor/br_4.jpg"
+                    ],
+                    "demoLink": "https://goo.gl/RlSefA"
+                },
+                {
+                    "thumb": "img/portfolio/chedi.jpg",
+                    "title": "Chedi Luang AR",
+                    "category": "Augmented Reality",
+                    "text": "Study project in purpos of tourism by using AR technology. As Chedi Luang has been broken so AR can show user full form of Chedi in 3D view.",
+                    "playerContents": [
+                        "img/portfolio/jdl/jdl1.jpg",
+                        "img/portfolio/jdl/jdl2.jpg",
+                        "img/portfolio/jdl/jdl3.jpg",
+                        "img/portfolio/jdl/jdl4.jpg"
+                    ],
+                    "demoLink": "https://goo.gl/8Z4GwQ"
+                },
+                {
+                    "thumb": "img/portfolio/cm.jpg",
+                    "title": "Chiang Mai I",
+                    "category": "Mobile Virtual World",
+                    "text": "Virtual world of ancient Chiang Mai city on mobile, I worked as solo developer and a help of 3D Designer who provided 3D assets. I managed to set up 3D scenes in Unity and did lighting part as well.",
+                    "playerContents": [
+                        "https://youtu.be/h4oddE9bm-4",
+                        "img/portfolio/wat1/wat2013_1.jpg",
+                        "img/portfolio/wat1/wat2013_2.jpg",
+                        "img/portfolio/wat1/wat2013_3.jpg",
+                        "img/portfolio/wat1/wat2013_4.jpg"
+                    ],
+                    "demoLink": "https://goo.gl/aBmqMk"
+                },
+                {
+                    "thumb": "img/portfolio/ML.jpg",
+                    "title": "Monster Land",
+                    "category": "Mobile Game",
+                    "text": "Spin-off side project from Monster In Thailand to create endless casual aRPG",
+                    "playerContents": [
+                        "https://youtu.be/Tdh0M5PkdDo",
+                        "img/portfolio/ml/ml_1.jpg",
+                        "img/portfolio/ml/ml_2.jpg",
+                        "img/portfolio/ml/ml_3.jpg",
+                        "img/portfolio/ml/ml_4.jpg"
+                    ]
+                },
+                {
+                    "thumb": "img/portfolio/MIT.jpg",
+                    "title": "Monster In Thailand",
+                    "category": "Mobile Game",
+                    "text": "Individual study from last student year, the project also was summited to Thailand Software Contest 2013 and won a grand prize on entertainment category.",
+                    "playerContents": [
+                        "https://youtu.be/OBL5QMkxx9U",
+                        "img/portfolio/mit/mit_1.jpg",
+                        "img/portfolio/mit/mit_2.jpg",
+                        "img/portfolio/mit/mit_4.jpg"
+                    ],
+                    "demoLink": "https://goo.gl/r2D7Ve"
+                },
+                {
+                    "thumb": "img/portfolio/Cng.jpg",
+                    "title": "ChiangGu",
+                    "category": "Mobile Application",
+                    "text": "Co-operative project between two faculties which are College of Arts, Media and Technology, Chiang Mai University and School of Photography and Video, Kyungil University. We made a decision to make mobile application which contains beautiful cinematography of two cities, Chiang Mai and Daegu. I worked and developer and motion graphic in application.",
+                    "playerContents": [
+                        "https://youtu.be/PIMAXLIiN-I",
+                        "img/portfolio/cg/cg_1.jpg",
+                        "img/portfolio/cg/cg_2.jpg",
+                        "img/portfolio/cg/cg_3.jpg",
+                        "img/portfolio/cg/cg_4.jpg"
                     ]
                 },
                 {
@@ -386,8 +374,8 @@
                     "category": "UI Design",
                     "text": "Free-time project designing shraring trip application on mobile.",
                     "playerContents": [
-                        "img/portfolio/tripster_1.jpg",
-                        "img/portfolio/tripster_2.jpg"
+                        "img/portfolio/ui/tripster_1.jpg",
+                        "img/portfolio/ui/tripster_2.jpg"
                     ]
                 },
                 {
@@ -443,7 +431,7 @@
                     ]
                 },
                 {
-                    "thumb": "img/portfolio/graphic/3D.jpg",
+                    "thumb": "img/portfolio/graphic/3d.jpg",
                     "title": "3D & 2D Works",
                     "category": "3D & 2D Animation",
                     "text": "Some of my previous 3D & 2D works in various styles.",

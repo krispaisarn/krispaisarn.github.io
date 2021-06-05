@@ -1,6 +1,6 @@
 {
-  "name": "landingpage-react-template",
-  "homepage": ".",
+  "name": "kris-dev-web-portfolio",
+  "homepage": "https://krispaisarn.github.io/portfolio/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
