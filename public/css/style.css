@@ -1183,3 +1183,25 @@ max-width: 80%;}
 		transform: translate(0%,0);
 	}
 	}
+
+	.mainContainer{
+		position:relative;
+		top:0; bottom:0; left:0;right:0;
+		transform: scale(0);
+		opacity: 0;
+		animation: animatedButton ease 750ms;
+	animation-delay: 500ms;
+	animation-fill-mode: forwards;
+	visibility: visible;
+
+	}
+
+	.page-title {
+		text-transform: uppercase;
+	font-weight: 800;
+	font-size: 36px;
+	color: #333;
+	display: flex;
+	justify-content: flex-end;
+	}
+	
