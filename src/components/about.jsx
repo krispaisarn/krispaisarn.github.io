@@ -11,12 +11,20 @@ const timelineTag = {
 
 const items =
   <Timeline lineColor={'#ddd'}>
-    <TimelineItem
+     <TimelineItem
       key="001"
-      dateText="2020 – Present"
+      dateText="Jan 2021 – Present"
       dateInnerStyle={timelineTag}
     >
-      <h3>Open for opportunity</h3>
+      <h4>Finifugu Games ( Mobile Game and GameFi )</h4>
+      <h5>Finifugu Games Ltd., Senior Unity Developer</h5>
+      <h6>
+        Worked on shipped titles with more than 500k+ downloads on Play Store,
+        <a href="https://play.google.com/store/apps/details?id=com.FinifuguGames.google.OtterOcean"> Otter Ocean</a> and 
+        <a href="https://play.google.com/store/apps/details?id=com.pixio.google.me.is.king"> Me is King</a>.
+        Also work on many mobile games for hyper casual studio.
+        Currently working on new GameFi project.
+      </h6>
     </TimelineItem>
     <TimelineItem
       key="002"
